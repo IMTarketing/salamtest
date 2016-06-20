@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="fontcss.css"/>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <h1 class="para1b">Arial, Helvetica, sans-serif</h1>
+        <div class="para1">Keep +ěščřžýáíé=ů reading for how to use the buttons to the left.
+            Change your settings, and choose what section you want the font to apply to.
+            Once you are pleased with the settings for that section you can click save.
+            Your selections will remain as you look for another font for another section of this preview.</div>
+        <h1 class="para2b">"Segoe UI","Helvetica Neue",Helvetica,Arial</h1>
+        <div class="para2">Keep +ěščřžýáíé=ů reading for how to use the buttons to the left.
+            Change your settings, and choose what section you want the font to apply to.
+            Once you are pleased with the settings for that section you can click save.
+            Your selections will remain as you look for another font for another section of this preview.</div>
+        <h1 class="para3b">Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif</h1>
+        <div class="para3">Keep +ěščřžýáíé=ů reading for how to use the buttons to the left.
+            Change your settings, and choose what section you want the font to apply to.
+            Once you are pleased with the settings for that section you can click save.
+            Your selections will remain as you look for another font for another section of this preview.</div>
+        <h1 class="para4b">Verdana, Geneva, sans-serif</h1>
+        <div class="para4">Keep +ěščřžýáíé=ů reading for how to use the buttons to the left.
+            Change your settings, and choose what section you want the font to apply to.
+            Once you are pleased with the settings for that section you can click save.
+            Your selections will remain as you look for another font for another section of this preview.</div>
+        <h1 class="para5b">'Open Sans', sans-serif</h1>
+        <div class="para5">Keep +ěščřžýáíé=ů reading for how to use the buttons to the left.
+            Change your settings, and choose what section you want the font to apply to.
+            Once you are pleased with the settings for that section you can click save.
+            Your selections will remain as you look for another font for another section of this preview.</div>
+    </body>
+</html>
